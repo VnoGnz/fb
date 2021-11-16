@@ -60,9 +60,7 @@ $ bash setup.sh
 $ python Cr4ck.py
 ```
 
-### Screenshot
-* Note! Bila akunya cp simpan saja 1/5 hari nanti kebuka sendiri..
-<img src="https://github.com/Yayan-XD/Cr4ck/blob/main/img/IMG_20210304_060211.jpg" />
+" />
 
 ##### MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/VnoGnz) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/moch_xd)
